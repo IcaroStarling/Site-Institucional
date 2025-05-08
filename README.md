@@ -33,7 +33,7 @@ Todo o layout foi desenvolvido com atenção à estética, usabilidade e legibil
 
 ## 📷 Preview
 
-Em breve...
+[GitHub Pages](https://icarostarling.github.io/Site-Institucional/)
 
 ---
 
